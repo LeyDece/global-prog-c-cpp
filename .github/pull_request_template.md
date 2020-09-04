@@ -1,6 +1,6 @@
 # Pull Request Template
 
-## Contributeur
+## Contributeurs
 
 Prénom Initiale (discord). `Cédric B (triozer#4242)`
 
@@ -8,7 +8,7 @@ Prénom Initiale (discord). `Cédric B (triozer#4242)`
 
 Décrivez les changements que vous avez apportés. Si vous soumettez une solution complexe, n'hésitez pas à détailler un peu votre approche. ;)
 
-## Checklist:
+## Checklist
 
 - [ ] Mon code est **compréhensible** (nom de variables / fonctions)
 - [ ] Mon code est commenté **en français** 
