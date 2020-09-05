@@ -2,6 +2,7 @@
 // Contributeurs : 
 // - Nicolas O. (Ｌｏａｄ#1939)
 // - Cédric B (triozer#4242)
+// - Quentin R. (Heartfilia#8738)
 // 
 
 #include <stdio.h>
