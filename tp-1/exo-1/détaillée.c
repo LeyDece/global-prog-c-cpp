@@ -2,6 +2,7 @@
 // Contributeurs : 
 // - Nicolas O. (Ｌｏａｄ#1939)
 // - Cédric B (triozer#4242)
+// - Quentin R. (Heartfilia#8738)
 // 
 
 #include <stdio.h>
@@ -11,8 +12,8 @@ int main()
     // On vide le buffer, pour éviter des mauvaises surprises
     fflush(stdin);
 
-    // On initialise les variables que devra entrer l'utilisateur
-    unsigned int j, m, a;
+    // On déclare et initialise les variables que devra entrer l'utilisateur
+    unsigned int j = 0, m = 0, a = 0;
 
     printf("Entrez la date au format jj/mm/aaaa :\n");
 
